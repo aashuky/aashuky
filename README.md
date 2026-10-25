@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm a **2nd-year Computer Science Engineering student** at **LNCT & Science, Bhopal**, focused on building a strong foundation in **software engineering, data structures, and full-stack web development**. I follow a self-structured, roadmap-driven learning path that combines rigorous **DSA practice in C++** with hands-on **MERN stack development**.
+I'm a **3rd-year Computer Science Engineering student** at **LNCT & Science, Bhopal**, focused on building a strong foundation in **software engineering, data structures, and full-stack web development**. I follow a self-structured, roadmap-driven learning path that combines rigorous **DSA practice in C++** with hands-on **MERN stack development**.
 
 My engineering approach centers on writing clean, scalable code and understanding systems deeply — from data structures and algorithmic problem-solving to designing REST APIs, database schemas, and production-ready frontend interfaces. I'm actively building a **product engineering mindset**, prioritizing real-world usability alongside technical correctness.
 
