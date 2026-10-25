@@ -7,7 +7,7 @@
 <br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=E9D5FF)
-![Year](https://img.shields.io/badge/2nd%20Year-LNCT%26S%20Bhopal-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Year](https://img.shields.io/badge/3rd%20Year-LNCT%26S%20Bhopal-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Bhopal%2C%20India-6d28d9?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
